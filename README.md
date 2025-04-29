@@ -9,6 +9,7 @@ This is a web application for TechConnect India, a platform exclusively for IT p
 
 ## Prerequisites
 
+
 Before running the app, ensure you have the following installed:
 
 - Python 3.x
